@@ -1,4 +1,4 @@
-# MustLearn
+# Specification
 
 东莞理工学院城市学院校易班学生工作站
 技术部部门规范
